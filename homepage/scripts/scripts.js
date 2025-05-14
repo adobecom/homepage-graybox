@@ -141,7 +141,7 @@ const stageDomainsMap = {
     'creativecloud.adobe.com': 'stage.creativecloud.adobe.com',
     'projectneo.adobe.com': 'stg.projectneo.adobe.com',
   },
-  '.graybox.adobe.com': { 'www.adobe.com': 'origin' },
+  '.graybox.adobe.com': { 'www.stage.adobe.com': 'origin' },
   '.business-graybox.adobe.com': { 'business.adobe.com': 'origin' },
 };
 
