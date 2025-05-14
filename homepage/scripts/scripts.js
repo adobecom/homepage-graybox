@@ -142,7 +142,7 @@ const stageDomainsMap = {
     'projectneo.adobe.com': 'stg.projectneo.adobe.com',
   },
   '.graybox.adobe.com': { 'www.stage.adobe.com': 'origin' },
-  '.business-graybox.adobe.com': { 'business.adobe.com': 'origin' },
+  '.business-graybox.adobe.com': { 'business.stage.adobe.com': 'origin' },
 };
 
 // Add any config options.
