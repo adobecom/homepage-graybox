@@ -1,4 +1,9 @@
 {
+  "project": "HOMEPAGE GRAYBOX",
+  "host": "graybox.adobe.com",
+  "previewHost": "main--homepage-graybox--adobecom.aem.page",
+  "liveHost": "main--homepage-graybox--adobecom.aem.live",
+  "trustedHosts": ["milo.adobe.com", "main--milo--adobecom.hlx.page"],
   "plugins": [
     {
       "id": "library",
